@@ -16,7 +16,7 @@
 <br>
 
 ### You can find me at...
-<a href="www.linkedin.com/nyhvignoli"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px" alt="LinkedIn logo"/></a>
+<a href="www.linkedin.com/nyhvignoli">Linkedin</a>
 <a href="mailto:nyhv.contato@gmail.com"><img src="https://seeklogo.net/wp-content/uploads/2020/10/gmail-logo.png" width="32px" alt="Gmail logo"/></a>
 <br>
 
