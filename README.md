@@ -1,4 +1,4 @@
-<h2> Hi there, wellcome to my page! </h2> <img src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434" width="28px" alt="cute kitten drinking coffe"/>
+<h2> Hi there, wellcome to my page! <img src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434" width="28px" alt="cute kitten drinking coffe"/></h2>
 
 <p>
   Nice to meet you! My name is Aline Vignoli, but people call me Nyh.<br>
