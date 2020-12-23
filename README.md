@@ -1,4 +1,4 @@
-### Hi there, wellcome to my page! <img src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434" width="28px" alt="cute kitten drinking coffe"/>
+<h2> Hi there, wellcome to my page! </h2> <img src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434" width="28px" alt="cute kitten drinking coffe"/>
 
 <p>
   Nice to meet you! My name is Aline Vignoli, but people call me Nyh.<br>
@@ -15,15 +15,21 @@
 - 💬 Ask me about anything, I love to answer questions!
 <br>
 
-### You can find me at...
-<a href="http://www.linkedin.com/in/nyhvignoli"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px" alt="LinkedIn logo"/></a>
-<a href="mailto:nyhv.contato@gmail.com"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" width="32px" alt="Gmail logo"/></a>
+### My stack
+<h4>Languages and Frameworks:</h4>
+<span>
+<img src="https://img.icons8.com/color/72/javascript.png" width="40px" alt="javascript icon"/> <img src="https://img.icons8.com/color/72/html-5.png" width="40px" alt="html5 icon"/> <img src="https://img.icons8.com/color/72/css3.png" width="40px" alt="css3 icon"/> <img src="https://img.icons8.com/officexs/72/react.png" width="36px" alt="react icon"/> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="44px" alt="java icon"/> <img src="https://img.icons8.com/color/2x/android-os.png" width="44px" alt="android icon"/> <img src="https://img.icons8.com/officexs/72/sql.png" width="40px" alt="sql icon"/> <img src="https://img.icons8.com/color/2x/google-firebase-console.png" width="40px" alt="firebase icon"/></span>
+
+<h4>Utilities:</h4>
+<span><img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" width="40px" alt="postman icon"/></span>
+
+<h4>Tools:</h4>
+<span><img src="https://e7.pngegg.com/pngimages/444/851/png-clipart-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-thumbnail.png" width="34px" alt="airtable icon"/> <img src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="32px" alt="notion icon"/> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="26px" alt="trello icon"/> <img src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" width="32px" alt="figma icon"/></span>
 <br>
 
-### My stack is...
-<img src="https://img.icons8.com/color/72/javascript.png" width="40px" alt="javascript icon"/> <img src="https://img.icons8.com/color/72/html-5.png" width="40px" alt="html5 icon"/> <img src="https://img.icons8.com/color/72/css3.png" width="40px" alt="css3 icon"/> <img src="https://img.icons8.com/officexs/72/react.png" width="40px" alt="react icon"/> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="40px" alt="java icon"/> <img src="https://img.icons8.com/color/2x/android-os.png" width="40px" alt="android icon"/> <img src="https://img.icons8.com/officexs/72/sql.png" width="40px" alt="sql icon"/> <img src="https://img.icons8.com/color/2x/google-firebase-console.png" width="40px" alt="firebase icon"/>
-
-
+### You can find me at...
+<a href="http://www.linkedin.com/in/nyhvignoli"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="30px" alt="LinkedIn logo"/></a> 
+<a href="mailto:nyhv.contato@gmail.com"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" width="32px" alt="Gmail logo"/></a>
 <br>
 
 <!--
