@@ -22,7 +22,7 @@
 
 <h4>Utilities:</h4>
 <code>
-<a target="_blank" rel="noopener noreferrer" href="https://www.postman.com/"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman icon" style="max-width:40px;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.postman.com/"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman icon" style="max-width: 50%;"></a>
 </code>
 
 <h4>Tools:</h4>
