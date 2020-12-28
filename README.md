@@ -7,14 +7,16 @@
   Now I'm trying to start a new career as a developer and I'm looking for oportunities to grow as one.<br>
   <img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="24px" alt="cute kitten drinking coffe"/>
 </p>
+<br>
 
 ### A little more about me...
 - 🔭 I’m currently working on personal projects and very nice projects in the classes I take at Labenu! <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" width="24px" alt="Labenu logo"/>
 - 🌱 I’m currently learning Java and Android Development
 - 👯 I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="24px" alt="pride flag"/> and <b>women</b> <img src="https://images.emojiterra.com/google/android-oreo/512px/2640.png" width="24px" alt="feminism symbol"/> related projects
 - 💬 Ask me about anything, I love to answer questions!
+<br>
 
-### My stack
+### My development stack:
 <h4>Languages and Frameworks:</h4>
 <p>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="32" src="https://img.icons8.com/color/72/javascript.png" alt="Javascript icon" style="max-width:100%;"></a></code>
@@ -39,6 +41,7 @@
 <code><a target="_blank" rel="noopener noreferrer" href="https://trello.com/"><img height="32" src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello icon" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/"><img height="32" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" alt="Figma icon" style="max-width:100%;"></a></code>
 </p>
+<br>
 
 ### You can find me at...
 <span>
