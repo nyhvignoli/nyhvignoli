@@ -3,8 +3,8 @@
 <p>
   Nice to meet you! My name is Aline Vignoli, but people call me Nyh.<br>
   I'm a front-end developer and full stack student from <b>Brazil</b>. <img src="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667" width="24px" alt="Brazil flag"/><br>
-  I've worked my whole life as a tattoo Artist but not so long ago I completely fell in love with coding and programming.<br>
-  Now I'm trying to start a new career as a developer and I'm looking for oportunities to grow as one.<br>
+  I've worked my whole life as a Tattoo Artist but not so long ago I completely fell in love with coding and programming.<br>
+  Now I'm trying to start a new career as a Developer and I'm looking for oportunities and projects to collaborate and grow as one.<br>
   <img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="24px" alt="cute kitten drinking coffe"/>
 </p>
 <br>
