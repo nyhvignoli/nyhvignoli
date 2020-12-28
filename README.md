@@ -17,8 +17,40 @@
 
 ### My stack
 <h4>Languages and Frameworks:</h4>
-<span>
-<img src="https://img.icons8.com/color/72/javascript.png" width="24px" alt="javascript icon"/> <img src="https://img.icons8.com/color/72/html-5.png" width="24px" alt="html5 icon"/> <img src="https://img.icons8.com/color/72/css3.png" width="24px" alt="css3 icon"/> <img src="https://img.icons8.com/officexs/72/react.png" width="24px" alt="react icon"/> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="24px" alt="java icon"/> <img src="https://img.icons8.com/color/2x/android-os.png" width="24px" alt="android icon"/> <img src="https://img.icons8.com/officexs/72/sql.png" width="24px" alt="sql icon"/> <img src="https://img.icons8.com/color/2x/google-firebase-console.png" width="24px" alt="firebase icon"/></span>
+<p>
+  <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/72/javascript.png"><img height="32" src="https://img.icons8.com/color/72/javascript.png" alt="javascript icon" style="max-width: 100%;">
+    </a>
+  </code>
+    <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/72/html-5.png"><img height="32" src="https://img.icons8.com/color/72/html-5.png" alt="html5 icon" style="max-width: 100%;">
+    </a>
+  </code>
+  <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/72/css3.png"><img height="32" src="https://img.icons8.com/color/72/css3.png" alt="css3 icon" style="max-width: 100%;">
+    </a>
+  </code>
+  <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/officexs/72/react.png"><img height="32" src="https://img.icons8.com/officexs/72/react.png" alt="react icon" style="max-width: 100%;">
+    </a>
+  </code>
+  <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/2x/java-coffee-cup-logo.png"><img height="32" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" alt="java icon" style="max-width: 100%;">
+    </a>
+  </code>
+  <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/2x/android-os.png"><img height="32" src="https://img.icons8.com/color/2x/android-os.png" alt="android icon" style="max-width: 100%;">
+    </a>
+  </code>
+  <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/officexs/72/sql.png"><img height="32" src="https://img.icons8.com/officexs/72/sql.png" alt="sql icon" style="max-width: 100%;">
+    </a>
+  </code>
+  <code>
+    <a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/color/2x/google-firebase-console.png"><img height="32" src="https://img.icons8.com/color/2x/google-firebase-console.png" alt="sql icon" style="max-width: 100%;">
+    </a>
+  </code>
+</p>
 
 <h4>Utilities:</h4>
 <code>
