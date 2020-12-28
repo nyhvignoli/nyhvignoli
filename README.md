@@ -21,11 +21,9 @@
 <img src="https://img.icons8.com/color/72/javascript.png" width="24px" alt="javascript icon"/> <img src="https://img.icons8.com/color/72/html-5.png" width="24px" alt="html5 icon"/> <img src="https://img.icons8.com/color/72/css3.png" width="24px" alt="css3 icon"/> <img src="https://img.icons8.com/officexs/72/react.png" width="24px" alt="react icon"/> <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" width="24px" alt="java icon"/> <img src="https://img.icons8.com/color/2x/android-os.png" width="24px" alt="android icon"/> <img src="https://img.icons8.com/officexs/72/sql.png" width="24px" alt="sql icon"/> <img src="https://img.icons8.com/color/2x/google-firebase-console.png" width="24px" alt="firebase icon"/></span>
 
 <h4>Utilities:</h4>
-<p>
 <code>
-<a target="_blank" rel="noopener noreferrer" href="https://www.postman.com/"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman icon" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.postman.com/"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman icon" style="max-width:40px;"></a>
 </code>
-</p>
 
 <h4>Tools:</h4>
 <span><img src="https://e7.pngegg.com/pngimages/444/851/png-clipart-airtable-database-spreadsheet-logo-application-software-slack-logo-angle-rectangle-thumbnail.png" width="24px" alt="airtable icon"/> <img src="https://i.pinimg.com/originals/f5/50/f9/f550f940f42ecf816241806e4386d216.png" width="24px" alt="notion icon"/> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="24px" alt="trello icon"/> <img src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" width="24px" alt="figma icon"/></span>
