@@ -2,16 +2,16 @@
 
 <p>
   Nice to meet you! My name is Aline Vignoli, but people call me Nyh.<br>
-  I'm a front-end developer and full stack student from <b>Brazil</b>. <img src="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667" width="24px" alt="Brazil flag"/><br>
+  I'm a full-stack developer from <b>Brazil</b>. <img src="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667" width="24px" alt="Brazil flag"/><br>
   I've worked my whole life as a Tattoo Artist but not so long ago I completely fell in love with coding and programming.<br>
-  Now I'm trying to start a new career as a Developer and I'm looking for oportunities and projects to collaborate and grow as one.<br>
+  Currently I work as a Programmer Analyst at Vizir Software Studio, a brazilian software house.<br>
   <img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="32px" alt="typing kermit"/>
 </p>
 <br>
 
 ### A little more about me...
-- 🔭 I’m currently working on personal projects and very nice projects in the classes I take at Labenu! <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" width="24px" alt="Labenu logo"/>
-- 🌱 I’m currently learning Typescript, Software Arquitecture and Cloud Services
+- 🔭 I’m currently developing personal projects and contributing in projects of the company I work for.
+- 🌱 I’m currently learning Svelt, Software Arquitecture, Docker and Cloud Services
 - 👯 I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="24px" alt="pride flag"/> and <b>women</b> <img src="https://images.emojiterra.com/google/android-oreo/512px/2640.png" width="24px" alt="feminism symbol"/> related projects
 - 💬 Ask me about anything and I'll try to make my best to answer!
 <br>
