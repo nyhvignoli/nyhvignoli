@@ -1,15 +1,18 @@
-<h2> Hi there, wellcome to my page! <img src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434" width="24px" alt="cute kitten drinking coffe"/></h2>
+# Hi there, wellcome to my page! <img src="https://emojis.slackmojis.com/emojis/images/1563481434/6016/meow_coffee.png?1563481434" width="24px" alt="cute kitten drinking coffe"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyhvignoli&icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### About me
 <p>
   Nice to meet you! My name is Aline Vignoli, but people call me Nyh.<br>
-  I'm a full-stack developer from <b>Brazil</b>. <img src="https://camo.githubusercontent.com/00e83015d8faeb60cc8d6ac61327ea602a9ff204c05be3bbd668fe65f3939dea/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f3139372f3139373338362e737667" width="24px" alt="Brazil flag"/><br>
+  I'm a full-stack developer from <b>Brazil</b>.<br/>
   I've worked my whole life as a Tattoo Artist but not so long ago I completely fell in love with coding and programming.<br>
   Currently I work as a Programmer Analyst at Vizir Software Studio, a brazilian software house.<br>
   <img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="32px" alt="typing kermit"/>
 </p>
 <br>
 
-### A little more about me...
+### What I've been up to...
 - 🔭 I’m currently developing personal projects and contributing in projects of the company I work for.
 - 🌱 I’m currently learning Svelt, Software Arquitecture, Docker and Cloud Services
 - 👯 I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="24px" alt="pride flag"/> and <b>women</b> <img src="https://images.emojiterra.com/google/android-oreo/512px/2640.png" width="24px" alt="feminism symbol"/> related projects
@@ -38,12 +41,16 @@
 </p>
 <br>
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyhvignoli&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 ### You can find me at...
 <span>
 <code><a target="_blank" rel="noopener noreferrer" href="http://www.linkedin.com/in/nyhvignoli"><img height="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn icon" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="mailto:nyhv.contato@gmail.com"><img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" alt="Gmail icon" style="max-width:100%;"></a></code></span>
 <br>
 
+###### *GitHub Stats* and *Top Langs* by [@anuraghzra](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nyhvignoli/nyhvignoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
