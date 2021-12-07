@@ -14,7 +14,7 @@
 
 ### What I've been up to...
 - 🔭 I’m currently developing personal projects and contributing in projects of the company I work for.
-- 🌱 I’m currently learning Svelt, Software Arquitecture, Docker and Cloud Services
+- 🌱 I’m currently learning MongoDB, Storybook, Theme-UI and UX.
 - 👯 I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="24px" alt="pride flag"/> and <b>women</b> <img src="https://images.emojiterra.com/google/android-oreo/512px/2640.png" width="24px" alt="feminism symbol"/> related projects
 - 💬 Ask me about anything and I'll try to make my best to answer!
 <br>
