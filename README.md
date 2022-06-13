@@ -6,7 +6,7 @@
 <p>
   Nice to meet you! My name is Aline Vignoli, but people call me Nyh.<br>
   I'm a Software Engineer from <b>Brazil</b>.<br/>
-  I've worked my whole life as a Tattoo Artist but not so long ago I completely fell in love with coding and programming.<br>
+  I've worked my whole life as a Tattoo Artist but in the beginning of 2020 I completely fell in love with coding and programming.<br>
   Currently I work remotely at Questrade Financial Group, an online brokerage firm and wealth management firm based in Canada.<br>
   <img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="32px" alt="typing kermit"/>
 </p>
