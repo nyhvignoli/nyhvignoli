@@ -5,18 +5,18 @@
 ### About me
 <p>
   Nice to meet you! My name is Aline Vignoli, but people call me Nyh.<br>
-  I'm a full-stack developer from <b>Brazil</b>.<br/>
+  I'm a Software Engineer from <b>Brazil</b>.<br/>
   I've worked my whole life as a Tattoo Artist but not so long ago I completely fell in love with coding and programming.<br>
-  Currently I work as a Programmer Analyst at Vizir Software Studio, a brazilian software house.<br>
+  Currently I work remotely at Questrade Financial Group, an online brokerage firm and wealth management firm based in Canada.<br>
   <img src="https://emojis.slackmojis.com/emojis/images/1608026376/11743/kermit_typing.gif?1608026376" width="32px" alt="typing kermit"/>
 </p>
 <br>
 
 ### What I've been up to...
 - 🔭 I’m currently developing personal projects and contributing in projects of the company I work for.
-- 🌱 I’m currently learning MongoDB, Storybook, Theme-UI and UX.
+- 🌱 I’m currently learning C#, .NET Framework, GCP, Angular, Storybook and Theme UI.
 - 👯 I’m looking to collaborate on any projects I can, but I have a special interest on <b>diversity</b> <img src="https://emojis.slackmojis.com/emojis/images/1588108737/8790/fb-pride.png?1588108737" width="24px" alt="pride flag"/> and <b>women</b> <img src="https://images.emojiterra.com/google/android-oreo/512px/2640.png" width="24px" alt="feminism symbol"/> related projects
-- 💬 Ask me about anything and I'll try to make my best to answer!
+- 💬 Ask me about Typescript, React and Unit tests!
 <br>
 
 ### My development stack:
